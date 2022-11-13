@@ -7,7 +7,7 @@ I am shehaan avishka, and I am developer, from 🇱🇰 Ambalangoda, Sri Lanka
 ### About me  
   
 
-- 🐧I am creating bugs since 2020  
+- 🐧 I am creating bugs since 2020  
   
 
 - 🎯 Goals: earn money for better days/ live in better place on this planet.  
