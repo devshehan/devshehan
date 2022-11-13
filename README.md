@@ -10,7 +10,7 @@ I am shehaan avishka, and I am developer, from 🇱🇰 Ambalangoda, Sri Lanka
 - 🐧 I am creating bugs since 2020
   
 
-- 🎯 Goals: earn money for better days/ live in better place on this planet
+- 🎯 Goals: earn money for better days/ living in a good place in the world 
   
 
 ### I code with  
