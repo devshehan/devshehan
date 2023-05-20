@@ -11,6 +11,9 @@ I am shehaan avishka, and I am developer, from 🇱🇰 Ambalangoda, Sri Lanka
   
 
 - 🎯 Goals: earn money for better days/ living in a good place in the world 
+
+
+- What am i doing these days: LinkedIn Clone
   
 
 ### I code with  
