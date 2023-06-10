@@ -28,5 +28,3 @@ I am shehaan avishka, and I am developer, from 🇱🇰 Ambalangoda, Sri Lanka
   <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 </div>
 <br />
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=devshehan&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
