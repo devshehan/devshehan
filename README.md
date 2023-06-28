@@ -1,13 +1,13 @@
 ### Hey... What's up?  
   
 
-I am shehaan avishka, and I am developer, from 🇱🇰 Ambalangoda, Sri Lanka  
+I am Shehaan Avishka, and I am developer, from 🇱🇰 Ambalangoda, Sri Lanka  
   
 
 ### About me  
   
 
-- 🐧 I am creating bugs since 2020
+- 🐧 Creating bugs since 2020
   
 
 - 🎯 Goals: earn money for better days/ living in a good place in the world 
