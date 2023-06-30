@@ -14,6 +14,9 @@ I am Shehaan Avishka, a developer from Ambalangoda, Sri Lanka. 🇱🇰 "
 
 
 - What am i doing these days: Sleeping
+
+- <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>   
   
 ### I code with  
 <div align="left">  
