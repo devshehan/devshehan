@@ -1,7 +1,7 @@
 ### Hey... What's up?  
   
 
-I am Shehaan Avishka, and I am developer, from 🇱🇰 Ambalangoda, Sri Lanka  
+I am Shehaan Avishka, a developer from Ambalangoda, Sri Lanka. 🇱🇰 "
   
 
 ### About me  
