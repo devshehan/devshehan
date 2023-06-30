@@ -13,7 +13,7 @@ I am Shehaan Avishka, a developer from Ambalangoda, Sri Lanka. 🇱🇰 "
 - 🎯 Goals: earn money for better days/ living in a good place in the world
   
 
-- 🐧 From focal fossa to jemmy jellyfish
+- 🐧 Typing sudo since 2021, Now : Jemmy Jellyfish
   
 
 - What am i doing these days: Sleeping
