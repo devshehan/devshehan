@@ -7,16 +7,17 @@ I am Shehaan Avishka, a developer from Ambalangoda, Sri Lanka. 🇱🇰 "
 ### About me  
   
 
-- 🐧 Creating bugs since 2020
+- 🦈 Creating bugs since 2020
   
 
-- 🎯 Goals: earn money for better days/ living in a good place in the world 
+- 🎯 Goals: earn money for better days/ living in a good place in the world
+  
 
+- 🐧 From focal fossa to jemmy jellyfish
+  
 
 - What am i doing these days: Sleeping
 
-- <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>   
   
 ### I code with  
 <div align="left">  
