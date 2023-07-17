@@ -16,7 +16,7 @@ I am Shehaan Avishka, a developer from Ambalangoda, Sri Lanka. 🇱🇰 "
 - 🐧 Typing sudo since 2021, Now : Jemmy Jellyfish
   
 
-- What am i doing these days: Sleeping
+- What am i doing these days: Socket Programming
 
   
 ### I code with  
