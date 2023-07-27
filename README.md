@@ -16,12 +16,12 @@ I am Shehaan Avishka, a developer from Ambalangoda, Sri Lanka. 🇱🇰 "
 - 🐧 Typing sudo since 2021, Now : Jemmy Jellyfish
   
 
-- What am i doing these days: Sockets
+- What am i doing these days: Crypto Trading Application Build using c++
 
   
 ### I code with  
 <div align="left">  
-      <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="30" /></a>  
+      <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="40" /></a>  
       <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="30" /></a>  
       <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="30" /</a> 
       <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="30" /></a>  
