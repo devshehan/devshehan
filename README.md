@@ -17,7 +17,7 @@ I am Shehaan Avishka, a developer from Ambalangoda, Sri Lanka. 🇱🇰"
   
 - ☕  Falling with : Java
 
-- What am i doing these days: REST API Spring boot ( JAVA )
+- What am i doing these days: PawPals ( Flutter Application )
 
   
 ### I code with  
@@ -39,6 +39,7 @@ I am Shehaan Avishka, a developer from Ambalangoda, Sri Lanka. 🇱🇰"
 ### Framework
 <div align="left">  
   <a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality."   target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="30" /></a>  
+  <a <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="30" /></a>  ></a>
 </div>
 
 <br />
