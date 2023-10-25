@@ -17,7 +17,7 @@ I am Shehaan Avishka, a java developer from Ambalangoda, Sri Lanka. 🇱🇰"
   
 - ☕  Falling with : Java
 
-- What am i doing these days: PawPals🐕 ( Flutter Mobile Application )
+- What am i doing these day : Self Improvements
 
   
 ### I code with  
