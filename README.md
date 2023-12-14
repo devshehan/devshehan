@@ -17,7 +17,7 @@ I am Shehaan Avishka, a java developer from Sri Lanka. 🇱🇰"
   
 - ☕  Falling with : Java
 
-- What am i doing these day : Self Improvements
+- What am i doing these day : ESC
 
   
 ### I code with  
