@@ -15,7 +15,7 @@ I am Shehaan Avishka, a Software Engineer from Sri Lanka. 🇱🇰"
 
 - 🐧 Typing sudo since 2021, Now : Noble Numbat
 
-- What am i doing these day : Tackling Complex Challenges in the Aviation Domain
+- What am i doing these day : Fail Better | Tackling Complex Challenges in the Aviation Domain
 
   
 ### I code with  
