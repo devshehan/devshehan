@@ -10,7 +10,7 @@ I am Shehan Avishka, a Software Engineer from Sri Lanka. 🇱🇰"
 - 🦈 Creating bugs since 2020
   
 
-- 🎯 Goals: earn money for better days/ living in a good place in the world
+- 🎯 Goals: Living the best life with best people
   
 
 - 🐧 Typing sudo since 2021, Now : Noble Numbat
