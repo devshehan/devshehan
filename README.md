@@ -43,7 +43,9 @@ I am Shehan Avishka, a Software Engineer from Sri Lanka. 🇱🇰"
   <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="30" /></a>  
 </div>
 
-### Blog
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shehaan.avishka00)
+### Blogs
+<div>
+ [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shehaan.avishka00)
+</div>
 
 <br />
