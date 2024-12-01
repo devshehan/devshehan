@@ -1,7 +1,7 @@
 ### Hey... What's up?  
   
 
-I am Shehan Avishka, a Software Engineer from Sri Lanka. 🇱🇰"
+I am Shehan Avishka, a Software Engineer and I am living in Sri Lanka. 🇱🇰"
   
 
 ### About me  
