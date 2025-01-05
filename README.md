@@ -15,8 +15,7 @@ I am Shehan Avishka, a Software Engineer and I am living in Sri Lanka.🇱🇰"
 
 - 🐧 Typing sudo since 2021, Now : Noble Numbat
 
-- What am i doing these day : Fail Better | Tackling Complex Challenges in the Aviation Domain
-
+- What am i doing these day : Time Blocking | Self Improvements
   
 ### I code with  
 <div align="left">  
