@@ -3,7 +3,7 @@ I am Shehan Avishka, a Software Engineer and I am living in Sri Lanka.🇱🇰"
 
 ### About me  
 - 🦈 Creating bugs since 2020
-- 🎯 Goals: Living the best life with best people
+- 🎯 Goals: Living the best life everyday
 - 🐧 Typing sudo since 2021, Now : Noble Numbat
 
 - What am i doing these day : Time Blocking | Self Improvements
