@@ -6,6 +6,6 @@ I am Shehan Avishka, a Software Engineer and I am living in Sri Lanka.🇱🇰"
 - 🎯 Goals: Living the best life everyday
 - 🐧 Typing sudo since 2021, Now : Noble Numbat
 
-- What am i doing these day : Time Blocking | Self Improvements
+- What am i doing these day : Time Blocking
 ### Blogs
  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shehaan.avishka00)
