@@ -1,11 +1,12 @@
 ### Hey... What's up?  
-I am Shehan Avishka, a Software Engineer and I am living in Sri Lanka"
+I am Shehan Avishka, a Backend Engineer and I am living in 🌊 Downsouth Sri Lanka 🇱🇰"
 
 ### About me  
+- ❤️ Humanity is first, Coder Second
 - 🦈 Creating bugs since 2020
-- 🎯 Goals: Giving Love to the universe
+- 🎯 Goals: Giving Love to the nature
 - 🐧 Typing sudo since 2021, Now : Noble Numbat
 
-- What am i doing these day : Time Blocking
+- What am i doing these day : Listening Country Music >>> portfolio >>> https://shehan-six.vercel.app/
 ### Blogs
- [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shehaan.avishka00)
+- My latest article was How did I secure PickMe internal restAPI endpoint using GitLab auth API and HMac. wanna read? >>> https://medium.com/@shehaan.avishka00
