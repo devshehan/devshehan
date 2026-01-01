@@ -2,7 +2,6 @@
 I am Shehan Avishka, a Backend Engineer and I am living in 🌊 Downsouth Sri Lanka 🇱🇰"
 
 ### About me  
-- ❤️ Humanity is first, Coder Second
 - 🦈 Creating bugs since 2020
 - 🎯 Goals: Giving Love to the nature
 - 🐧 Typing sudo since 2021, Now : Noble Numbat
