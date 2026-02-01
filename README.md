@@ -6,7 +6,7 @@ I am Shehan Avishka, a Backend Engineer and I am living in 🌊 Downsouth Sri La
 - 🎯 Goals: Giving Love to the nature
 - 🐧 Typing sudo since 2021, Now : Noble Numbat
 
-- What am i doing these day : Listening Country Music >>> portfolio >>> https://shehan-six.vercel.app/
+- What am i doing these day : Listening Country Music >>> portfolio >>> https://shehanavishka.com
 - I’m also gradually moving into the **Machine Learning** realm, and in my free time I love learning the math behind ML algorithms.
 ### Blogs
 - The Two-Tower Model: How Modern Recommendation Systems Learn What You’ll Love Next. wanna read? >>> https://medium.com/@shehaan.avishka00
