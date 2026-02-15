@@ -1,5 +1,5 @@
-### hi humans?  
-I am Shehan, from Downsouth🌊 Sri Lanka🇱🇰
+### hi I'm Shehan?  
+     from Downsouth🌊 Sri Lanka🇱🇰
 
 Computer Science graduate from University of Colombo(#1 country) building number one inhouse food delivery platform in Sri Lanka with world class engineers.
 
