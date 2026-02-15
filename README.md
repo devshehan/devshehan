@@ -1,18 +1,8 @@
-### Hey... What's up?  
-I am Shehan Avishka, a Backend Engineer and I am living in 🌊 Downsouth Sri Lanka 🇱🇰"
+### hi humans?  
+I am Shehan, from Downsouth🌊 Sri Lanka🇱🇰
 
-### About me  
-- 🦈 Creating bugs since 2020
-- 🎯 Goals: Giving Love to the nature
-- 🐧 Typing sudo since 2021, Now : Noble Numbat
+Computer Science graduate from University of Colombo(#1 country) building number one inhouse food delivery platform in Sri Lanka with world class engineers.
 
-- What am i doing these day : Listening Country Music >>> portfolio >>> https://shehanavishka.com
-- I’m also gradually moving into the **Machine Learning** realm, and in my free time I love learning the math behind ML algorithms.
-### Blogs
-- The Two-Tower Model: How Modern Recommendation Systems Learn What You’ll Love Next. wanna read? >>> https://medium.com/@shehaan.avishka00
+One day I felt I missed something in the age of AI, That's why I am here to feel the real freedom.
 
-## Note
-**Blank squares on my contribution graph don’t mean I stopped coding, they mean I was busy solving real business problems.**
-
-LINKEDIN >>> www.linkedin.com/in/shehanavishka
-
+I put my thoughts in here >> ()[https://shehanavishka.com]
