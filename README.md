@@ -1,8 +1,12 @@
 ### hi I'm Shehan?  
-     from Downsouth🌊 Sri Lanka🇱🇰
+     from Downsouth 🌊 Sri Lanka 🇱🇰
 
-Computer Science graduate from University of Colombo(#1 country) building number one inhouse food delivery platform in Sri Lanka with world class engineers.
+Msc. Computer Science (Reading)
+Bsc. Computer Science Graduated from UCSC(#1)
 
-One day I realized I missed something in the age of AI, That's why I am here to find the real freedom.
+vision, philosophy >>>>>>>>>>>>> www.shehanavishka.com
 
-I put my thoughts in here >> https://shehanavishka.com
+Golang Backend Developer
+     Building Number One Food & Marketplace Saas in Sri Lanka.
+
+reach out to me: shehandeavishka@gmail.com
