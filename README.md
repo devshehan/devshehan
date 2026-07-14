@@ -1,7 +1,7 @@
 ### hi I'm Shehan?  
      from Downsouth 🌊 Sri Lanka 🇱🇰
 
-Open Source Backend Engineer
+Research & Development Engineer, Open Source Backend Engineer
 
 Msc. Computer Science (Reading) 
 
