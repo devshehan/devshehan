@@ -1,15 +1,6 @@
 ### hi I'm Shehan?  
-     from Downsouth 🌊 Sri Lanka 🇱🇰
+     from Down South 🌊 Sri Lanka 🇱🇰
 
-Research & Development Engineer, Open Source Backend Engineer
-
-Msc. Computer Science (Reading) 
-
-Bsc. Computer Science   from UCSC(#1)
+Trying to build something valuable to the universe.
 
 vision, philosophy >>>>>>>>>>>>> www.shehanavishka.com
-
-
-Building Intelligence Systems on top of Foundation Models
-
-reach out to me: shehandeavishka@gmail.com
